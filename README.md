@@ -93,3 +93,12 @@ I am currently building projects to strengthen my development skills.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=P-deshmukh-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/P-deshmukh-03/P-deshmukh-03/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
