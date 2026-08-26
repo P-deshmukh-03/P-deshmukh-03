@@ -79,14 +79,12 @@ I am currently building projects to strengthen my development skills.
 
 </div>
 
----
 
 <div align="center">
 
 ### 💻 Keep Learning • Keep Building • Keep Growing 🚀
 
 </div>
----
 
 ## 🔥 GitHub Streak
 
