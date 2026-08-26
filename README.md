@@ -43,13 +43,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=P-deshmukh-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -92,4 +86,12 @@ I am currently building projects to strengthen my development skills.
 ### 💻 Keep Learning • Keep Building • Keep Growing 🚀
 
 </div>
+---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=P-deshmukh-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
