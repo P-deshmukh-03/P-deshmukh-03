@@ -59,11 +59,13 @@
 
 ## 🚀 Projects
 
-Coming soon... 🚀
+### 🎓 Student Management System
 
-I am currently building projects to strengthen my development skills.
+A Java-based desktop application for managing student records, courses, examinations, and results using Java Swing and MySQL.
 
----
+**Tech Stack:** Java 21 • Swing • MySQL • JDBC • Maven
+
+🔗 [View Project](https://github.com/P-deshmukh-03/student-management-system)
 
 ## 📫 Connect With Me
 
