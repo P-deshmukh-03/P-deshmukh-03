@@ -42,9 +42,6 @@
 </div>
 
 ---
-
-
-
 ---
 
 ## 💻 Most Used Languages
