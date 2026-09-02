@@ -79,6 +79,38 @@ A desktop-based student management application built with Java and MySQL.
 
 ---
 
+### 💼 Smart Placement & Job Portal
+
+A full-stack web-based placement and job management platform designed to connect students, recruiters, and administrators through a centralized system.
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API` `JWT` `bcrypt`
+
+**Key Features:**
+- 👨‍🎓 Student registration, profile and skill management
+- 🏢 Recruiter and company management
+- 💼 Job posting and job management
+- 🔎 Job search with filtering, sorting and pagination
+- 📄 Online job applications and application tracking
+- ⭐ Saved jobs
+- 🧠 Skill-based job matching
+- 🔔 Notifications
+- 📅 Interview management
+- 👥 Recruiter candidate/application management
+- 🛡️ Admin dashboard and platform management
+- 💬 Job Help / Query system
+- 🔐 JWT authentication and role-based authorization
+- 📱 Responsive user interface
+
+**Project Highlights:**
+- Full-stack web application
+- RESTful backend API
+- MySQL database integration
+- Role-based access control
+- Secure authentication and password hashing
+- Responsive frontend design
+
+🔗 **[View Project Repository](https://github.com/P-deshmukh-03/smart-placement-job-portal)**
 ### 🚀 Upcoming Projects
 
 I am currently building projects focused on:
