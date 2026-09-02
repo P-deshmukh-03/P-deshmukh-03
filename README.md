@@ -57,27 +57,38 @@ I enjoy building practical applications that solve real-world problems and conti
 
 ---
 
-## 🚀 Featured Projects
-
 ### 🎓 Student Management System
 
-A desktop-based student management application built with Java and MySQL.
+A desktop-based student management application designed to simplify and centralize student, course, examination, and academic result management using Java and MySQL.
 
-**Highlights**
+#### ✨ Key Features
 
-* 🔐 User authentication and password hashing
-* 👨‍🎓 Student management
-* 📚 Course management
-* 📝 Examination and result management
-* 📄 PDF and CSV export
-* 🏗️ Layered application architecture
-* 🗄️ MySQL database integration
+- 🔐 User authentication with secure password hashing
+- 👨‍🎓 Student registration and student information management
+- 📚 Course creation and course management
+- 📝 Examination management
+- 📊 Student marks and result management
+- 📄 PDF report generation and export
+- 📑 CSV data export
+- 🏗️ Layered application architecture
+- 🗄️ MySQL database integration
+- 🔗 JDBC-based database connectivity
 
-**Tech:** `Java 21` `Java Swing` `MySQL` `JDBC` `Maven` `BCrypt` `PDFBox`
+#### 🛠️ Tech Stack
 
-🔗 [View Repository](https://github.com/P-deshmukh-03/student-management-system)
+`Java 21` `Java Swing` `MySQL` `JDBC` `Maven` `BCrypt` `PDFBox`
 
----
+#### 💡 Project Highlights
+
+- Full desktop application development
+- Object-oriented Java programming
+- GUI development using Java Swing
+- Relational database integration with MySQL
+- Authentication and password security
+- PDF and CSV export functionality
+- Structured layered application architecture
+
+🔗 **[View Repository](https://github.com/P-deshmukh-03/student-management-system)**
 
 ### 💼 Smart Placement & Job Portal
 
@@ -111,19 +122,7 @@ A full-stack web-based placement and job management platform designed to connect
 - Responsive frontend design
 
 🔗 **[View Project Repository](https://github.com/P-deshmukh-03/smart-placement-job-portal)**
-### 🚀 Upcoming Projects
 
-I am currently building projects focused on:
-
-* ☕ **Java + Spring Boot Backend Applications**
-* 🤖 **AI / GenAI Applications**
-* 🌐 **REST API & Full-Stack Applications**
-* 🐳 **Docker & CI/CD**
-* 🗄️ **PostgreSQL & Database-driven Systems**
-
-More projects will be added as they are completed.
-
----
 
 ## 📚 Currently Learning
 
