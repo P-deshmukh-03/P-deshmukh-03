@@ -56,7 +56,7 @@ I enjoy building practical applications that solve real-world problems and conti
 </p>
 
 ---
-
+🚀 Featured Projects
 ### 🎓 Student Management System
 
 A desktop-based student management application designed to simplify and centralize student, course, examination, and academic result management using Java and MySQL.
